@@ -42,7 +42,14 @@ for (var i = 0; i < hours.length; i++) {
 // Save buttons feature icons from Font Awesome (css)
 // Click on save button to save text to local storage
 
+function saveBlock(id) {
+    var blockContent = $("#" + id).val();
+
+    localStorage.setItem("blockContent" + id, blockContent);
+}
+
 
 // Saved events persist when page is refreshed
 
 // Bonus: Add timer to refresh page periodically (for accurate color blocks)
+// Bonus: Responsive Sizing
