@@ -38,8 +38,11 @@ for (var i = 0; i < hours.length; i++) {
     setColor(hours[i]);
 }
 
-// Click on timeblock to enter an event (text)
+// Click on timeblock to enter an event (textarea)
+// Save buttons feature icons from Font Awesome (css)
 // Click on save button to save text to local storage
+
+
 // Saved events persist when page is refreshed
 
 // Bonus: Add timer to refresh page periodically (for accurate color blocks)
