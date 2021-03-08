@@ -7,13 +7,13 @@ The app will run in the browser and feature dynamically updated HTML and CSS pow
 
 This application must utilize the client-provided CSS style sheet, as well as Moment.js, Bootstrap, Google Fonts, and Font Awesome.
 
-### User Story
+## User Story
 
 AS AN employee with a busy schedule  
 I WANT to add important events to a daily planner  
 SO THAT I can manage my time effectively  
 
-### Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN I am using a daily planner to create a schedule  
 WHEN I open the planner  
@@ -29,15 +29,15 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page  
 THEN the saved events persist  
 
-### Website Link
+## Website Link
 
 https://kara-krzystan.github.io/workday-scheduler/
 
-### Screenshot
+## Screenshot
 
 ![screenshot](https://github.com/kara-krzystan/workday-scheduler/blob/master/assets/images/workday_scheduler_screenshot.png)
 
-### Built With
+## Built With
 
 * HTML
 * CSS
@@ -46,4 +46,5 @@ https://kara-krzystan.github.io/workday-scheduler/
 * Moment.js
 * Bootstrap
 
-### Made with ❤️ by Kara Krzystan
+## Contact
+[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
