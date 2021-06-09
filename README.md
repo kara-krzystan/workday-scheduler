@@ -3,7 +3,7 @@
 ## Description
 
 For this challenge, I was tasked with creating a simple calendar application that allows a user to save events for specific hours of the workday.
-The app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+The app runs in the browser and features dynamically updated HTML and CSS powered by jQuery.
 
 This application must utilize the client-provided CSS style sheet, as well as Moment.js, Bootstrap, Google Fonts, and Font Awesome.
 
